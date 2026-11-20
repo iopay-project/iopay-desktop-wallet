@@ -86,7 +86,7 @@ It is not a hosted service and not a recovery desk: a wallet that can restore yo
 
 The [system requirements guide](https://github.com/iopay-project/desktop-setup-and-safety/blob/main/iopay-wallet-system-requirements.md) sets out what each platform needs and what the release does not publish.
 
-## Features
+## Features:
 
 - **Four ways in.** Create from a 12- or 24-word phrase, import a phrase, import a private key, or import a keystore file.
 - **Two addresses per account.** Every account shows its `io1...` native address and its `0x...` EVM address, with copy buttons and a QR code.
